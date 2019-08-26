@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Xapp</string>
+    <string name="slogan">Cool like XXX</string>
+    <string name="login">Please, Log in</string>
+    <string name="buttonLogin">Log in</string>
+    <string name="buttonRegister">Registration</string>
+    <string name="hintEmail">Email</string>
+    <string name="hintPassword">Password</string>
+    <string name="hintName">Name</string>
+    <string name="hintNumberPhone">Phone Number</string>
+    <string name="alertDialogRegistration">Registration</string>
+    <string name="alertDialogEnterAllData">Enter all data</string>
+    <string name="negativeBtnCancel">Cancel</string>
+    <string name="emailIsEmpty">Email is empty</string>
+    <string name="passwordIsEmpty">Password is empty</string>
+    <string name="nameIsEmpty">Name is empty</string>
+    <string name="phoneIsEmpty">Phone number is empty</string>
+    <string name="successRegistration">Registration was successful</string>
+
+</resources>
